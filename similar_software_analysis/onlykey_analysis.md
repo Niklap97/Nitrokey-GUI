@@ -1,6 +1,13 @@
 
-
 # OnlyKey Analysis- interesting Points
+
+## Pro- Summary
+
+- simple Design
+- setup wizard
+- strong connection to the documentation
+- shows alot of functionalities
+- "hidden" detailed information
 
 ## Set up Wizard
 
@@ -50,11 +57,3 @@
 
 ![only_5](../similar_software_analysis/img/only_5.png)
 
-## Pro
-
-- simple Design
-
-- setup wizard
-- strong connection to the documentation
-- shows alot of functionalities
-- "hidden" detailed information
