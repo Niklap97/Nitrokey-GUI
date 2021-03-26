@@ -6,7 +6,7 @@
 
 1. Without connected Key, you cant access the App.
 
-# ![only_1](/img/only_1.png)
+# ![only_1](Nitrokey-GUI/img/only_1.png)
 
 2. If you connect an new Key, you need to set follow the setup-wizard and set the PINs.
 
