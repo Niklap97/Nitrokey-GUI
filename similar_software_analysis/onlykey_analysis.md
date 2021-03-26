@@ -10,7 +10,7 @@
 
 2. If you connect an new Key, you need to set follow the setup-wizard and set the PINs.
 
-   ![1](/home/niklas/git/Nitrokey-GUI/similar_software_analysis/img/1.PNG)
+   ![1](../similar_software_analysis/img/1.PNG)
 
 ![1,5](/home/niklas/git/Nitrokey-GUI/similar_software_analysis/img/1,5.PNG)
 
