@@ -15,7 +15,6 @@ By applying the human-centered design process, analysis, design and evaluation, 
 
 - MoSCoW method
 - Card Sorting
-- 
 ### 3. Evaluation
 
 
