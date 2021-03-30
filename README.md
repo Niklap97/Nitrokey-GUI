@@ -10,13 +10,12 @@ By applying the human-centered design process, analysis, design and evaluation, 
 - User Feedback
 - Analysis of similar Software
 - Expert Feedback
-- MoSCoW method
-- Card Sorting
  
 ### 2. Design 
 
+- MoSCoW method
+- Card Sorting
 - 
-
 ### 3. Evaluation
 
 
