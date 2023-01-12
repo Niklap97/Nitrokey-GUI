@@ -20,7 +20,6 @@ By applying the human-centered design process, analysis, design and evaluation, 
 
 - UEQ - User Experience Questionnaire 
 
-
 ### Time schedule
 
 | Week        | Description                                 | Result                                          |
