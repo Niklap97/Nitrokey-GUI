@@ -18,8 +18,7 @@ By applying the human-centered design process, analysis, design and evaluation, 
 - High- Fidelity Prototyping
 ### 3. Evaluation
 
-- UEQ - User Experience Questionnaire 
-
+- UEQ - User Experience Questionnaire
 ### Time schedule
 
 | Week        | Description                                 | Result                                          |
